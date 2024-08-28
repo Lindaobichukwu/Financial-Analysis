@@ -1,13 +1,16 @@
-# Project Title: Financial-Analysis Using Python Libraries.
+# Project Title: Financial Analysis Using Python Libraries.
+
+### Data Source:
+              This project is a Kaggle dataset<https://www.kaggle.com/datasets>
 
 ### Project Description: 
-                     In this project, we took help from Numpy, Pandas, Seaborn and Matplotlib to create amazing visualizations.
-                     This project analyzes financial data using libraries like Pandas and Matplotlib. The project reads financial data from an Excel file, processes it, and then 
-                     generates visualizations to analyze the data.
+               In this project, I took help from Numpy, Pandas, Seaborn and Matplotlib to create amazing visualizations.
+               This project analyzes financial data using libraries like Pandas and Matplotlib. The project reads financial data
+               from an Excel file, processes it, and then generates visualizations to analyze the data.
                      
 ### Execution: 
-               In the course of this project, I imported my Libraries, imported my dataset, explored my dataset, cleaned and prepared my data before visualizing it. 
-               This enabled me, draw conclusive insights from my analysis.
+               In the course of this project, I imported my Libraries, imported my dataset, explored my dataset, cleaned and 
+               prepared my data before visualizing them. This enabled me draw conclusive insights from my analysis.
 
 ### Some of the data visualized are as follows:
         .  Analyzed the segment sector.
