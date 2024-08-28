@@ -1,7 +1,7 @@
 # Project Title: Financial Analysis Using Python Libraries.
 
 ### Data Source:
-            ***This project is a Kaggle Financial Analysis dataset***
+            ###This project is a Kaggle Financial Analysis dataset###
 
 ### Project Description: 
                In this project, I took help from Numpy, Pandas, Seaborn and Matplotlib to create amazing visualizations.
